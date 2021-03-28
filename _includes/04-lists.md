@@ -1,6 +1,10 @@
 Replace this with a list of your favorite things.
 1. Hello world
 2. console.log
-  -  Type enter
-  -  commit change
-3. Merge branches
+    1. Type enter
+    2.  commit change
+3. Merge branches <br>
+:heart:
+🌴
+- woow
+    - wonders
